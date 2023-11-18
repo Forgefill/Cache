@@ -1,0 +1,3 @@
+D:/Mykhailo_Space/projects/Cache/cache_miss_demo/cmake-build-debug/CMakeFiles/cache_miss_demo.dir
+D:/Mykhailo_Space/projects/Cache/cache_miss_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mykhailo_Space/projects/Cache/cache_miss_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

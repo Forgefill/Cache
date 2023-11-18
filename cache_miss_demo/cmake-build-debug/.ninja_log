@@ -1,0 +1,5 @@
+# ninja log v5
+0	84	7220420256977753	CMakeFiles/cache_miss_demo.dir/main.c.obj	679b3b9bdfcc6277
+85	164	7220420257724853	cache_miss_demo.exe	6baba3d9300360f6
+2	70	7220420963366394	CMakeFiles/cache_miss_demo.dir/main.c.obj	679b3b9bdfcc6277
+70	141	7220420964035180	cache_miss_demo.exe	6baba3d9300360f6
