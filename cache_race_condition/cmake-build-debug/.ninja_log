@@ -1,0 +1,7 @@
+# ninja log v5
+1	99	7220592832066041	CMakeFiles/cache_race_condition.dir/main.c.obj	81239acf92592d30
+100	211	7220592833156426	cache_race_condition.exe	f2cc1eb69dda50bc
+2	68	7220593908479289	CMakeFiles/cache_race_condition.dir/main.c.obj	81239acf92592d30
+68	141	7220593909179389	cache_race_condition.exe	f2cc1eb69dda50bc
+2	87	7221235303122345	CMakeFiles/cache_race_condition.dir/main.c.obj	81239acf92592d30
+87	177	7221235303987692	cache_race_condition.exe	f2cc1eb69dda50bc
